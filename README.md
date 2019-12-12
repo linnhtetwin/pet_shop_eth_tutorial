@@ -1,20 +1,40 @@
-# pet_shop_eth_tutorial
+<h1 align="center">Welcome to pet-shop 👋</h1>
+<p>
+  <a href="https://www.npmjs.com/package/pet-shop" target="_blank">
+    <img alt="Version" src="https://img.shields.io/npm/v/pet-shop.svg">
+  </a>
+  <a href="#" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+</p>
 
-I want to show the petshop demo app for ethereum, it is too easy for the beginners :ok_hand:
+## Install
 
-The official demo app can be found at [PetShop by Truffle Box](https://github.com/truffle-box/pet-shop-box)
-
-:one: To initialize the project, you need to install the required node_modules, please type `npm install` in termainal of your project folder.
-```
+```sh
 npm install
 ```
-:no_entry: If there is any errors or issues, you can type `npm audit fix` to assure the security issues.
-```
-npm audit fix
-```
-:two: To run the app, you need to type `npm run dev` but here we use `dev` because this app is still in development state.
-```
+
+## Usage
+
+```sh
 npm run dev
 ```
 
-**your first dapp is now opened.** :100:
+## Run tests
+
+```sh
+npm run test
+```
+
+## Author
+
+👤 **CruzMolina**
+
+* Website: truffle-box
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
