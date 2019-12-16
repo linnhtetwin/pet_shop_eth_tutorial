@@ -9,6 +9,14 @@
   </a>
 </p>
 
+## Requirements
+
+1. Nodejs (npm)
+2. Git
+3. Truffle
+4. Ganache
+5. Metamask
+
 ## Install
 
 ```sh
