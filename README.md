@@ -3,6 +3,7 @@
   <a href="https://www.npmjs.com/package/pet-shop" target="_blank">
     <img alt="Version" src="https://img.shields.io/npm/v/pet-shop.svg">
     <img alt="Language" src="https://img.shields.io/badge/language-nodejs-yellow?logo=node.js">
+    <img alt="Language" src="https://img.shields.io/github/languages/top/linnhtetwin/pet_shop_eth_tutorial">
   </a>
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
